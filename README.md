@@ -8,6 +8,8 @@ Make a try with the help of Grok.
 You should clone qtterminalwidget to compil the projet! 
 Depends of ... 
 
+first send download.sh , that clone qtterminalwidget , and compil all...
+
 https://github.com/jacob3141/qtterminalwidget
 
 # Screenhot 
